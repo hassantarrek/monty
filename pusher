@@ -1,0 +1,3 @@
+git add .
+git commit -m "0x19. c - stacks, queues - lifo, fifo"
+git push
